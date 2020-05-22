@@ -1,0 +1,5 @@
+Versión 0: PIC16F688 (Camiones)
+Versión 1: PIC18F4550 (PI)
+Versión 1.5: Arduino DUE (Sólo telemetría)
+Versión 2: Arduino UNO (ELAs)
+Versión 3: Arduino MKR Zero
